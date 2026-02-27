@@ -17,3 +17,13 @@ This project automates the installation and configuration of Apache (httpd) on R
 
 ```bash
 ansible-playbook -i inventory playbook.yml
+## 🚀 Features
+- Automated Apache installation
+- Service enable & start configuration
+- Idempotent Ansible execution
+- Infrastructure automation using YAML
+
+## 📈 Future Improvements
+- Add firewall configuration
+- Deploy custom index.html
+- Convert to Ansible role structure
